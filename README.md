@@ -59,6 +59,7 @@ More comprehensive lists can be found in the [Awesome-Rust-MachineLearning](http
 - [nalgebra](https://github.com/dimforge/nalgebra) — General-purpose linear algebra library.
 - [ndarray-stats](https://github.com/rust-ndarray/ndarray-stats) — Statistical routines for `ndarray`.
 - [approx](https://github.com/brendanzab/approx) — Approximate floating point equality comparisons and assertions.
+- [hyperreal](https://github.com/timschmidt/hyperreal/) — Provides exact rational, symbolic, and computable real arithmetic.
 
 
 ### Visualization
