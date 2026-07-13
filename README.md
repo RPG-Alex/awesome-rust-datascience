@@ -60,6 +60,7 @@ More comprehensive lists can be found in the [Awesome-Rust-MachineLearning](http
 - [ndarray-stats](https://github.com/rust-ndarray/ndarray-stats) — Statistical routines for `ndarray`.
 - [approx](https://github.com/brendanzab/approx) — Approximate floating point equality comparisons and assertions.
 - [hyperreal](https://github.com/timschmidt/hyperreal/) — Provides exact rational, symbolic, and computable real arithmetic.
+- [tenferro-rs](https://github.com/tensor4all/tenferro-rs) — Rust-native tensor and automatic differentiation stack for scientific computing.
 
 
 ### Visualization
