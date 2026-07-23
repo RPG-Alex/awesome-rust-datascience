@@ -152,7 +152,7 @@ More comprehensive lists can be found in the [Awesome-Rust-MachineLearning](http
 - [ro-create-rust](https://github.com/arunaengine/ro-crate-rust) — A Rust implementation of the [RO-Crate](https://www.researchobject.org/ro-crate/) metadata specification for Research Objects.
 - [wikibase_rest_api](https://github.com/magnusmanske/wikibase_rest_api) — A Rust client library for the [Wikibase REST API](https://doc.wikimedia.org/Wikibase/master/js/rest-api/).
 - [wikidata](https://github.com/syvb/wikidata/) — Rust bindings for [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) to make it easy to use data from Wikidata in Rust programs.
-
+- [ro-crate-rs](https://github.com/intbio-ncl/ro-crate-rs) — A Rust and Python library and CLI for creating, modifying, and reading [RO-Crates](https://www.researchobject.org/ro-crate/).
 
 ---
 
