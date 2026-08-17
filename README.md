@@ -113,7 +113,7 @@ More comprehensive lists can be found in the [Awesome-Rust-MachineLearning](http
 - [rdftk](https://github.com/johnstonskj/rust-rdftk) — An RDF toolkit as a set of crates providing the ability to work with RDF data.
 - [semantic web language server](https://github.com/SemanticWebLanguageServer/swls) — A server for IDEs to add functionality for semantic web languages.
 - [Sophia](https://github.com/pchampin/sophia_rs) — A Rust toolkit for RDF and Linked Data comprising several crates.
-
+- [sparqId](https://github.com/iolanta-tech/sparqld) — A live, read-only SPARQL endpoint for linked data stored in files.
 
 ### Ontologies, Validation & Reasoning
 - [fastobo](https://github.com/fastobo/fastobo) — A library for *faultless* ASTs for Open Biomedical Ontologies.
