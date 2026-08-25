@@ -114,6 +114,7 @@ More comprehensive lists can be found in the [Awesome-Rust-MachineLearning](http
 - [semantic web language server](https://github.com/SemanticWebLanguageServer/swls) — A server for IDEs to add functionality for semantic web languages.
 - [Sophia](https://github.com/pchampin/sophia_rs) — A Rust toolkit for RDF and Linked Data comprising several crates.
 - [sparqId](https://github.com/iolanta-tech/sparqld) — A live, read-only SPARQL endpoint for linked data stored in files.
+- [Kolibrie](https://github.com/StreamIntelligenceLab/Kolibrie) ﹘High-performance, concurrent, and feature-rich SPARQL query engine.
 
 ### Ontologies, Validation & Reasoning
 - [fastobo](https://github.com/fastobo/fastobo) — A library for *faultless* ASTs for Open Biomedical Ontologies.
