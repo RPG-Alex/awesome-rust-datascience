@@ -73,7 +73,7 @@ More comprehensive lists can be found in the [Awesome-Rust-MachineLearning](http
 
 ### ETL Pipelines
 - [supdabase etl](https://github.com/supabase/etl) — High-performance Postgres replication. 
-
+- [aqueducts](https://github.com/vigimite/aqueducts) ﹘A framework to write and execute ETL data pipelines declaratively.
 ---
 
 ## Bioinformatics
