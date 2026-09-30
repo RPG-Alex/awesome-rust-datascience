@@ -19,6 +19,7 @@ Adapting [awesome-semantic-web](https://github.com/semantalytics/awesome-semanti
   - [Machine Learning](#machine-learning)
   - [Numerical & Scientific Computing](#numerical--scientific-computing)
   - [Visualization](#visualization)
+  - [ETL Pipelines](#etl--pipeline)
 - [Bioinformatics](#bioinformatics)
   - [Genomics](#genomics)
   - [Proteomics](#proteomics)
@@ -70,6 +71,8 @@ More comprehensive lists can be found in the [Awesome-Rust-MachineLearning](http
 - [rustplotlib](https://github.com/askanium/rustplotlib) — A pure Rust visualization library inspired by D3.js
 - [plotly.rs](https://github.com/plotly/plotly.rs) - Plotly for Rust.
 
+### ETL Pipelines
+- [supdabase etl](https://github.com/supabase/etl) — High-performance Postgres replication. 
 
 ---
 
